@@ -2,7 +2,7 @@
 Empirical Orthogonal Function to compute spatial and temporal pattern of geographic data (Adapted from *Wikle, C. K., Zammit-Mangion, A., and Cressie, N. (2019), Spatio-Temporal Statistics with R*)
 
 ---------------------
-** Required R packages**
+**Required R packages**
 
 *reshape2*
 
