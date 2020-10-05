@@ -23,7 +23,7 @@ EOFnumber: number of EOF to obtain in the output
 ---------------------
 
 **Example**
-
+```
 library(ncdf4)
 
 library(lubridate)
@@ -69,5 +69,5 @@ EOFspace <- eof_output[[1]]
 EOFtime <- eof_output[[2]]
 
 EOFd <- eof_output[[3]]
-
+```
 
